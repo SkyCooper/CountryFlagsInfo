@@ -8,7 +8,7 @@
 
 ## Description
 
-Project aims to create a basic calculator.
+Project aims get information about countries via a RESTful API
 
 ## Learning Outcomes
 
@@ -18,7 +18,7 @@ At the end of the this project, you will be able to;
 
 - demonstrate your knowledge of algorithmic design principles,
 
-- create a Basic Opreations Calculator.
+- get information about countries via a API.
 
 
 ## Project Skeleton 
@@ -27,9 +27,12 @@ At the end of the this project, you will be able to;
 
         |----index.html  
         |----script.js
+        |----CountryInformation.gif
         |----img
         |----readme.md 
 
 ### Overview
-I mastered HTML, CSS and Javascript features in this project. You can see the visual representation of the website above.
+I mastered HTML, CSS and Javascript fetch API features in this project. You can see the visual representation of the website above.
+
+🔥 You can use [REST COUNTRIES API ](https://restcountries.com/) for your app. 
 

@@ -1,6 +1,6 @@
 # Project : Country Flags Info
 
-## Check The Live Website ➡️ [Live Website](https://skycooper.github.io/CountryFlagInfo/)
+## Check The Live Website ➡️ [Live Website](https://skycooper.github.io/CountryFlagsInfo/)
 
 ## Animation of the Website
 
@@ -23,13 +23,11 @@ At the end of the this project, you will be able to;
 
 ## Project Skeleton 
 
-|----Basic Operations
+|----CountryFlagsInfo
 
         |----index.html  
-        |----result.html   
-        |----style.css
-        |----theme.css
-        |----app.js
+        |----script.js
+        |----img
         |----readme.md 
 
 ### Overview

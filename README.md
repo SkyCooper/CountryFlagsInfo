@@ -6,6 +6,12 @@
 
 ![image](./CountryInformation.gif)
 
+
+## Visulation of the Website
+
+![image](https://user-images.githubusercontent.com/106506769/194273312-27bd8d15-3a2d-46e9-a870-6d8e03f92ebe.png)
+
+
 ## Description
 
 Project aims get information about countries via a RESTful API
